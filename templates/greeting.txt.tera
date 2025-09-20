@@ -1,0 +1,2 @@
+Hello, {{ name }}!
+This file was generated from a template.
